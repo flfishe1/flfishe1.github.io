@@ -1,2 +1,2 @@
 # flfishe1.github.io
-This is a course:CIS300 Web Design 
+Arizona State University Course: CIS300 Web Design 
